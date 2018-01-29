@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.Aytackydln:BytecodeEngine:master-v0.2.3-g4ab2355-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Aytackydln/BytecodeEngine/master-v0.2.3-g4ab2355-1/BytecodeEngine-master-v0.2.3-g4ab2355-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Aytackydln/BytecodeEngine/master-v0.2.3-g4ab2355-1/BytecodeEngine-master-v0.2.3-g4ab2355-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Aytackydln/BytecodeEngine/master-v0.2.3-g4ab2355-1/BytecodeEngine-master-v0.2.3-g4ab2355-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
