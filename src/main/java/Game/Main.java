@@ -24,6 +24,9 @@ public class Main extends Engine{
 		variables.add("playerName");
 		if(playerName==null)playerName="Nameless";
 		main=this;
+		camera.viewWidth=500;
+		camera.viewHeight=500;
+		camera.updateScales();
 		loadMap(new MainMenu());
 	}
 

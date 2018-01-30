@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.github.Aytackydln</groupId>
             <artifactId>BytecodeEngine</artifactId>
-            <version>master-SNAPSHOT</version>
+            <version>0.3.0</version>
         </dependency>
     </dependencies>
 

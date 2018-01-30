@@ -22,6 +22,6 @@ public class MainMenu extends Map{
 			}
 		};
 
-		Camera.cam.chanePos(-width/2-5,-height/2-5);
+		Camera.cam.chanePos(0,0);
 	}
 }

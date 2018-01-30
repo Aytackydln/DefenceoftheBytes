@@ -12,6 +12,8 @@ public class Tutorial extends Rectangle{
 
 	@Override
 	public void onClick(){
+		Main.engine.camera.viewHeight=200;
+		Main.engine.camera.viewHeight=400;
 		Main.main.loadMap(new TutorialMap());
 	}
 }
